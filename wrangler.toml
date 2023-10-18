@@ -1,0 +1,6 @@
+name = "your_app_name"
+main = "src/index.js"
+compatibility_date = "2023-10-18"
+
+[site]
+bucket = "./dist"
